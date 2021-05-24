@@ -1,4 +1,4 @@
-# NGINX NJS Bot Protection 🤖⛔
+# NGINX NJS (Not Production Ready) Bot Protection Module 🤖⛔
 
 > Source code for the NJS bot protection module post
 
