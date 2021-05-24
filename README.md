@@ -12,6 +12,6 @@ npm run build
 
 2. Follow the [Building a Simple Bot Protection With NGINX JavaScript Module (NJS) and TypeScript](#) post.
 
-![](https://giphy.com/embed/daUOBsa1OztxC)
+![](https://media.giphy.com/media/daUOBsa1OztxC/giphy.gif)
 
 <a href="https://giphy.com/gifs/car-bad-tesla-daUOBsa1OztxC">via GIPHY</a>
